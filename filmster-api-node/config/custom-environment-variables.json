@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "filmster_jwtPrivateKey",
+  "db": "filmster_db"
+}
